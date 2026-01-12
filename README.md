@@ -18,9 +18,9 @@ All-in-one Bug Bounty & VAPT Recon Automation Framework
 subfinder, assetfinder, amass, httpx, naabu, gowitness, nuclei
 
 ## Installation
-git clone https://github.com/vigneshcybersecurity/zeroday-recon.git
-cd zeroday-recon
-chmod +x zeroday-recon.sh
+1. git clone https://github.com/vigneshcybersecurity/zeroday-recon.git
+2. cd zeroday-recon
+3. chmod +x zeroday-recon.sh
 
 ## Usage
 ./zeroday-recon.sh example.com
